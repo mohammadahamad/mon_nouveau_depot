@@ -1,0 +1,8 @@
+body{
+    background-color: antiquewhite;
+}
+
+#presentation{
+    display: flex;
+    justify-content: space-between;
+}
